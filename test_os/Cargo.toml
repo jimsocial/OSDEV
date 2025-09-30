@@ -2,7 +2,7 @@
 name = "test_os"
 version = "0.1.0"
 authors = ["Ethan Hammond <ethan.hammond.17@gmail.com>"]
-edition = "2024"
+edition = "2021" #changed this from 2024 to 2021 to make sure the toolchain is supported
 
 [dependencies]
 
